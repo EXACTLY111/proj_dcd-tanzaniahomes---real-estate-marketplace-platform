@@ -1,0 +1,2 @@
+# proj_dcd-tanzaniahomes---real-estate-marketplace-platform
+A comprehensive real estate marketplace platform for Tanzania, starting with Dodoma as the pilot market. The platform enables property owners and agents to list properties while allowing buyers to browse and contact sellers directly via WhatsApp integration. Features include admin verification system, commission-based monetization, and mobile-first
